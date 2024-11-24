@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj",
         "projectName": "bdNortwind",
-        "projectPath": "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\bdNortwind.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

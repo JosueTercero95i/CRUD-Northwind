@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04611F67-C2BE-4222-AFF1-0B4AF21EE9D7}|bdNortwind\\bdNortwind.csproj|c:\\users\\lenovo\\downloads\\bdnortwind\\bdnortwind\\bdnortwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04611F67-C2BE-4222-AFF1-0B4AF21EE9D7}|bdNortwind\\bdNortwind.csproj|c:\\users\\lenovo\\desktop\\bdnortwind\\bdnortwind\\bdnortwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04611F67-C2BE-4222-AFF1-0B4AF21EE9D7}|bdNortwind\\bdNortwind.csproj|solutionrelative:bdnortwind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\Program.cs",
               "RelativeDocumentMoniker": "bdNortwind\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\bdNortwind\\bdNortwind\\bdNortwind\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\bdNortwind\\bdNortwind\\bdNortwind\\Program.cs",
               "RelativeToolTip": "bdNortwind\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwHsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T20:39:09.208Z",
               "EditorCaption": ""

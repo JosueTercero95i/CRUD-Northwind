@@ -11,7 +11,6 @@ namespace progrmaBD
             Console.WriteLine("Hello world");
             string connectionString = "Server=DESKTOP-TLN3SFR;Database=Northwind;Trusted_Connection=True;TrustServerCertificate=True";
 
- 
             Select(connectionString);
             Insert(connectionString);
             Update(connectionString);
@@ -113,7 +112,8 @@ namespace progrmaBD
         //-----------------------------------------
         static void Delete(string connectionString)
         {
-            string query = "DELETE FROM Products WHERE ProductID = @ProductID";
+            string query = "DELETE FROM [Order Details] WHERE [ProductID] = @ProductID; DELETE FROM [Products] WHERE [ProductID] = @ProductID"
+;
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
